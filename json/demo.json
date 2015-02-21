@@ -1,0 +1,305 @@
+{
+    "storymap": {
+        "language": "AU",              
+        "map_type": "osm:standard",      
+        "map_as_image": false,  
+        "slides": [
+       {
+            "type": "overview",
+            "date": "2014",
+            "text": {
+                "headline": "Writing in the Red Wake",
+                "text": "<p>With piano scarf and flashing LEDs on his jacket, David Hasselhoff climbed atop the Berlin Wall to sing Looking For Freedom in what was the Soviet Union’s closing ceremony. Today, Soviet socialism and the system that supported it have been confined to history, no longer relevant in a post-political, globalised world where the Golden Arches have replaced the Hammer and Sickle. But is this really accurate?</p><p>To answer this question, the author travels from the edge of Siberia to the Berlin Wall, taking the reader to the last Gulag in Russia, a cosmodrome on the Kazakh steppe, a nuclear bunker in the Moscow suburbs, an ethnically disputed territory in the Caucasus and a gangster state in Moldova. With his boots on the ground, the author gets firsthand perspectives from the locals, attending strange events and explaining the historical significance of places and describing how their history continues to influence our world today.</p><p>RIDING IN THE RED WAKE is a hybrid form, drawing from the immediacy and excitement of travel writing, the deep research of a historical text and the relevancy of journalism. The end result is episodic, moving from East to West. Each chapter focuses on a specific location which delves into an aspect of Soviet history whose echoes can still be heard today. Topics explored include: Soviet ethnic engineering, Chechnya and the War on Terror; Chernobyl and the end of nuclear utopianism; What we owe to the Space Race; Soviet Art’s influence on Western Advertising; What happened to the KGB?; How the history of the Gulag system is a thorn in Putin’s side; Organized crime holding a Soviet Banner; the author confronting his own family history and German Ostalgie or nostalgia for the communist system. It is from each of these topics that threads can be traced all the way to events, objects and actors that feature prominently in our reality today. This is woven together with the narrative of the author displaced, searching for answers in foreign lands. On the way he meets locals who have experienced the height, fall and aftermath of the Soviet experiment. They provide firsthand accounts that vividly render the past, their current predicaments and attitudes.</p><p>What begins to emerge is that we continue to exist in the shadow of the USSR, from the air we breathe to the advertising on billboards, from the War on Terror to the existence of satellites in geostationary orbit.</p>"
+            },
+            "media": {
+                    "url":              "http://static1.businessinsider.com/image/4f983da669bedda435000010-1200/the-soviets-attributed-their-success-to-the-1917-revolution-according-to-this-poster.jpg",
+                    "credit":               "Business Insider",
+                    "caption":          "\"The October Revolution Needs you\""
+                }
+        }, {
+            "date": "July 2012",
+            "text": {
+                "headline": "Perm: Soviet Ghostbusting",
+                "text": "<p>Russian president Vladimir Putin feels besieged by the West. Right next door, Ukraine has had its pro-Western Orange revolution and now is tearing itself apart deciding whether to join the EU. To the South, Georgia post Rose revolution is also looking Westward. Putin is concerned. What if the youth in Russia begin to demand Western ideas like transparency, democracy and freedom of speech? What would unite all Russians under the blue-white and red so that they don’t protest too hard at one man being president until 2024, in what he refers to unironically as a “managed democracy”?</p><p>Why history of course. But which version? It is unanimous amongst historians that it was the Soviet Union that felled the Nazi juggernaut. But does this make the Soviets the good guys? The official version of Russian history, the one that is being taught in schools, has glossed over is the Nazi-Soviet Nonaggression Pact and the fact that tens of millions of Soviet citizens were imprisoned in the vast Gulag system of forced labour camps.</p><p>The author travels to Perm 36, the last Gulag that remains as something more than rubble, in order to investigate exactly how Russia has busted the ghosts of its Soviet past, how today the Russian Secret Service is suppressing historical research into forced labour camps and how the government is trying desperately to revise history and rehabilitate Stalin, all in order to legitimize its grip on power.</p>"
+            },
+            "location": {
+                "name": "Perm-36 Gulag",
+                "lat": 58.268581,
+                "lon": 57.43206,
+                "zoom": 4,
+                "line": true
+            },
+            "media": {
+                    "url":              "http://www.geschichteinchronologie.ch/SU/Stalin-gulag-fakten-d/014-gulaglager-Perm35-zaun-u-wachtturm1989.jpg",
+                    "credit":               "Swiss GeschichteinChronologie",
+                    "caption":          "Perm 36 Prison Camp"
+                }
+        }, 
+        {
+            "date": "July 2012",
+            "text": {
+                "headline": "Bunker 42: A Nuclear Inheritance",
+                "text": "<p>By some estimates, in 1991, at the moment of its collapse, the Soviet Union possessed more than 27,000 nuclear weapons which were inherited by member states (some of which border on the most volatile regions in the world). Over the next five years there were frantic diplomatic efforts by the US to contain the spread of these weapons as the scenario of an ex-Soviet weapons facility poorly defended by underpaid guards infiltrated by a terrorist group played constantly on Western minds (and in more than a few airport novels). Even though by 1996 all Soviet warheads were under Russian control, with many dismantled or in the process of being dismantled, this fear has never quite been allayed.</p><p>In this chapter, the author travels to the declassified Bunker-42 in a nondescript windowless building in Moscow’s Tagansky District (just past babushkas selling pickled vegetables). A cold war relic, Bunker-42 served as a military command post for long distance aircraft and nuclear weapons and is indicative of the secrecy and fear surrounding that era.</p><p>The author climbs down 18 floors from street level, with a tour group of New Yorkers into a vast system of dank tunnels connecting chambers stacked with Soviet communication arrays. Many in the group have their prejudices reinforced by this kitch cash in on the memory of nuclear annihilation. There is a glint of irony in the tour guide’s eyes and hammed up accent as he sternly directed the tourists around.</p><p>This is the lighter side of how the fear of the Soviet nuclear arsenal has done so much to shape post-Soviet geopolitical configuration. That the threat of nuclear war and its total implications for mankind have remained with us, their character barely revised since the days of the cold war.</p>"
+            },
+            "location": {
+                "name": "Бункер 42 на Таганке",
+                "lat": 55.741705,
+                "lon": 37.649272,
+                "zoom": 8,
+                "line": true
+            },
+            "media": {
+                    "url":              "http://37.media.tumblr.com/tumblr_m6qnfkaH9W1rvcy6oo1_1280.jpg",
+                    "credit":          "Marten Cullity",
+                    "caption":          "Bunker 42 (Бункер 42 на Таганке)"
+                }
+        },
+       {
+            "date": "March 2015",
+            "text": {
+                "headline": "Far Eastern Federal University",
+                "text": "<p>Vladivostok - I month immersion in white nights studying Russian intensively - in Russia's Easternmost port city. The name Vladivostok loosely translates from Russian as \"the ruler of the East\"</p>"
+            },
+            "location": {
+                "name": "Far Eastern Federal University",
+                "lat": 43.117151,
+                "lon": 131.892470,
+                "zoom": 6,
+                "line": true
+            },
+            "media": {
+                    "url":              "http://russiatrek.org/blog/wp-content/uploads/2011/01/vladivostok-city-russia-night-view-1.jpg",
+                    "credit":               "Russia Trek",
+                    "caption":          "Vladivostok at night"
+                }
+        },
+        {
+            "date": "April 2015",
+            "text": {
+                "headline": "Collective farm in Kyrgyrzstan",
+                "text": "<p>The world had seen few things as socially aggressive and radical as the Soviet’s drive toward collectivisation. Entire ancient nations were torn up by their roots, forced to work land that would never yield crops (the main reason they had been nomadic in the first place). This lead to uprisings which were in turn brutally crushed. Eventually the collective farm became perhaps the most important feature of the Soviet landscape, glorified in propaganda, hailed as a victory for Socialism.</p><p>Once the Soviet Union fell, the collective farm vanished almost completely, no longer economically viable in the globalised world of mega farms and automated agriculture. Some die-hards remain, living the Soviet hangover but with no pre-Soviet life to return to they feel alienated by the world today.</p><p>In this chapter, the author spends a week working on a farm in Kazakhstan which has barely changed since the days of the USSR. The characters he meets provide insights into what life was like on these farms their day to day operations as well as why some are nostalgic for communism and still don’t trust the West. We understand why many from the Soviet Union currently feel displaced, abandoned by the political system they believed, in and with few opportunities in today’s reality, they have little choice but to continue as they always have.</p>"
+            },
+            "location": {
+                "name": "Kadamzhai District",
+                "lat": 39.968772, 
+                "lon": 71.740952,
+                "zoom": 8,
+                "line": true
+            },
+            "media": {
+                    "url":              "http://www.russia-ukraine-travel.com/image-files/unkown-russian-artist-women-of-the-kolkhoz.jpg",
+                    "credit":               "wikipedia",
+                    "caption":          "колхо́з"
+                }
+        }, 
+        {
+            "date": "May 2015",
+            "text": {
+                "headline": "Baikonur Cosmodrome",
+                "text": "<p>Whoever was victorious in the space race would claim the propaganda coup that their economic system bore superior fruit. Yet there was also a menacing underside - the implication by the victor to the loser that “we can reach you, we now control the skies over your heads”. So on October 4, 1957, when the Soviets launched the R-7, first intercontinental ballistic missile, into space with its payload of the first satellite Sputnik, the US were shocked. This kicked off the race to the moon which was essentially a race for military superiority of space. Even still, it captured the public’s attention in both regimes, seen in the US as a natural extension of their exploratory spirit and in the USSR as validation of their planned economy.</p><p>The author visits Baikonur cosmodrome, the site in Kazakhstan from which Sputnik and Yuri Gagarin, the first man in space, were launched. It was also the site of the horrific Nedelin Catastrophe in which an ICBM R-16 exploded on the launch pad killing over 100 people.</p><p>Today the cosmodrome is still in operation, leased by the Russian government from Kazakhstan, it’s a strange place to find yesterday’s tomorrow (Russian guards have to keep ejecting Kazakh shepherds and their sheep from buildings around the base).</p><p>This chapter tells the story of the space race from the Soviet perspective (something not well known in the West), and explains how this represented a giant technological leap to which we owe everything from the Kidney dialysis machine to teflon.</p>"
+            },
+            "location": {
+                "name": "космодром «Байконур»",
+                "lat": 45.8374351,
+                "lon": 63.3114014,
+                "zoom": 5,
+                "line": true
+            },
+            "media": {
+                    "url":              "http://upload.wikimedia.org/wikipedia/commons/5/59/Soyuz_expedition_19_launch_pad.jpg",
+                    "credit":               "wikipedia",
+                    "caption":          "Baikonur Cosmodrome (космодром «Байконур»)"
+                }
+        },
+        {
+            "date": "May 2015",
+            "text": {
+                "headline": "Aral Sea: Mother Nature’s Mistakes",
+                "text": "<p>The sight of rusting ships marooned on the vast Kazakh steppe seems reserved for the dreamscapes of surrealist paintings. But if you plunge your fingers into the salt streaked desert sand you can still dig up sea shells. This is all that remains of much of the Aral Sea, once the fourth largest inland body of water, it is now half its former size and shrinking. It began to dry up in the 1960s when the tide never returned. This was a few years after the flow of two massive rivers that fed the Sea were diverted from the Soviet plan to irrigate the steppe and grow cotton.</p><p>The Aral Sea is an extreme example of Stalin’s penchant for geo-engineering which sought to reshape the earth and correct “mother nature’s mistakes”. Kazakhstan and Uzbekistan have inherited many of the consequences of this hubris, from the toxic dust that poisons the air and ground to the formerly flourishing fishing industries that now lie in ruins.</p><p>The author visits a ravaged formerly seaside town, speaks with the locals and discovers how they live in the shadow of Soviet geoengineering. The fascinating history is relayed and the author sees what methods are being employed today to try and repair the damage and correct the mistakes of yesterday.</p>"
+            },
+            "location": {
+                "name": "The Aral Sea",
+                "lat": 45.000000, 
+                "lon": 60,
+                "zoom": 3,
+                "line": true
+            },
+            "media": {
+                    "url":              "http://www.columbia.edu/~tmt2120/dried_aral_ship.jpg",
+                    "credit":               "Columbia University",
+                    "caption":          "The Aral Sea"
+                }
+        },
+         {
+            "date": "May 2015",
+            "text": {
+                "headline": "Nagorno-Karabakh: Bad Neighbours Make Good Fences",
+                "text": "<p>In the early days of the revolution, the Soviets thought they were doing the right thing by giving ethnic minorities autonomy. Then, during the terror of Stalin, the Soviet’s ethnic policy lost this benevolent sheen and entire nations were deported to Kazakhstan and Siberia, their regions resettled for a generation with ethnic Russians before they were allowed to return. The resultant problems which seethed below the surface were kept in the check by the Soviet State. Once the Soviet Union dissolved, they quickly exploded. Today we continue to see the fallout of the drive for international Communism throughout the Caucasus, in places like Nagorno-Karabakh, Chechnya and Dagestan.</p><p>The author travels to Nagorno-Karabakh to discover what life is like in a diplomatic blind spot that has inherited the ethnic problems created by the Soviet Union. Technically still embroiled in a war between the Armenians and Azeris fought along ethnic and religious lines, Nagorno-Karabakh is still home to ethnic Armenians that live there day-to-day. When the author meets four Russians caught taking photos of tanks and placed under house arrest, their passports confiscated, he realises that the traditional  Soviet status of Russians as “first among equals” might not longer be valid. Through the beautiful mountainous terrain of the Black Garden in an overloaded Lada, ducking his head to avoid police attention, his driver reveals himself to be a veteran of the Afghanistan war. But it is when the author meets another young opportunistic guide that he realises that attitudes are split between the young and old, the Soviet and the Post-Soviet generation, that are living with the old legacy of a new world order.    </p>"
+            },
+            "location": {
+                "name": "Stepanakert",
+                "lat": 39.829805, 
+                "lon": 46.759851,
+                "zoom": 6,
+                "line": true
+            },
+            "media": {
+                    "url":              "http://news.bbcimg.co.uk/media/images/60593000/jpg/_60593750_nagorno_parade_g.jpg",
+                    "credit":               "Getty Images",
+                    "caption":          "Military Parade in the Captial Stepankert"
+                }
+        },
+        {
+            "date": "June 2015",
+            "text": {
+                "headline": "Lubyanka: Yesterday the KGB, today the FSB",
+                "text": "<p>It is an indication of Russian ambivalence towards the darker recesses of its Soviet past that debate concerning the possible returning of a statue of “Iron Feliks” to a square in Moscow is being entertained as credible. Iron Feliks or Feliks Dzerzhinsky was the founder of the Cheka, the secret police, predecessor to the KGB, an organization responsible for the murder of hundreds of thousands of Soviet citizens in early days of Bolshevik regime. That the monument, toppled by pro-democratic protesters in 1991, would be placed right beside the Solovetsky monument, erected to commemorate the millions that perished in the Gulags, is indicative of the ongoing battle for history that continues to rage in Russia.</p><p>In this chapter the author travels to Lubyanka, the proposed location of this monument and the historic headquarters of the KGB. Where once political prisoners were executed in the basement, while on the street above trucks revved their engines to mask the shots, there now resides the current intelligence apparatus of the Kremlin, the FSB. On a tour of Lubyanka, the author gets a feeling for how the official version of humanity’s darkest chapter diverges from reality.</p><p>The author then explores how, as one journalist puts it “There is virtually no difference--other than cosmetic changes in labels and uniforms--between the KGB and FSB/SVR or between the Soviet and Russian leadership. There is continuity--of personnel, methods, and objectives--from one to the other.”</p><p>Exhaustively researched, we see that the role of the secret police in Russia has all but been reinstated, that the scope and breadth of their operations are approaching Soviet proportions. This chapter cites chilling examples of assassinations, censorship, spying and even acts of terror performed against foreign agents, journalists and their own population, reflecting the continuum from the KGB to the FSB as the cloak and dagger of Putin (himself once a Colonel in the KGB), and the Russian state.</p>"
+            },
+            "location": {
+                "name": "Лубя́нка",
+                "lat": 55.759660,
+                "lon": 37.626581,
+                "zoom": 9,
+                "line": true
+            },
+            "media": {
+                    "url":              "http://4.bp.blogspot.com/-iPVDcf25cog/T7d9xL5-9AI/AAAAAAAAAEI/1STrM8LZu6s/s1600/P1000381.JPG",
+                    "credit":               "Blogspot",
+                    "caption":          "Lubyanka (Лубя́нка) - KGB headquarters"
+                }
+        },
+        {
+            "date": "June 2015",
+            "text": {
+                "headline": "Moscow: Constructivism: A New Man, A New Brand",
+                "text": "<p>The Bolshevik Revolution was the dawn of a new age and a new age needed a new artistic language. Gone were the sentimental panderings to religion and upper classes and in came Constructivism, a radical new art form, a dash toward an objective socialist reality. This new art was bold and brave, it inspired devotion to the revolution and transmitted its messages to a largely illiterate population.</p><p>Today we no longer believe in the revolution but the briefs sitting on the desks of many marketing firms are similar: be bold, direct and the image always trumps the word. We borrow from the lessons of Constructivism, often without even realising, in everything from advertising campaigns to online data visualisation, from the Pet Shop Boys to Magnum Ice Creams.</p><p>In this chapter, the author visits key works of art and architecture, some no longer on public display, and traces their impact from the exhibition halls and refectories of the Soviet Union to the television screens and billboards of Times Square. It tells a story of how the images of constructivism were co-opted by the West and are still being used today to our own ends, often for the exact opposite of their intended purpose.</p>"
+            },
+            "location": {
+                "name": "Shukov tower",
+                "lat": 55.717222, 
+                "lon": 37.611389, 
+                "zoom": 3,
+                "line": true
+            },
+            "media": {
+                    "url":              "http://upload.wikimedia.org/wikipedia/commons/thumb/5/50/1979_stamp_Radio_Moscow.png/640px-1979_stamp_Radio_Moscow.png",
+                    "credit":               "Wikipedia",
+                    "caption":          "Shukov Tower postage stamp 1979"
+                }
+        },
+        {
+            "date": "July 2015",
+            "text": {
+                "headline": "The Baltic States: Westward Ho!",
+                "text": "<p>None of the post-Soviet nations have pursued a more enthusiastic pro-Western agenda than the Baltic states, being the only republics from the former USSR to become members in either NATO or the EU. Yet making a clean break has not been as simple as just joining organizations, these states still rely on Russia for much of their energy needs and all contain a large ethnic Russian population, many of whom are reluctant to engage with the new post-Soviet societies. By turning West the Baltic states have also left themselves vulnerable to the Russian Mafia who treat the Baltics as a foothold in the West (and Western Banking systems).</p><p>Perhaps the most sensitive issue, however, lies in their battle over history. The Russian version of the Soviet Union liberating them from the Nazis is sharply contradicted by the Baltic states, who consider themselves invaded. The post-War deportations of ethnic Baltic peoples to be replaced by Russians, is something that the governments in Baltic states still struggle with and something that continues to set the tone for Russian-Baltic relations today.</p><p>In this chapter, the author attends the Russian language “New Wave” festival in Latvia which is attended by Russian Mafia and Russian Government officials, to provide a forum for them to discuss moving money through Europe. He watches the new Russian elite at play but also speaks to ethnic Russians, native to Latvia, gaining an understanding about how they feel marginalised in a country where they can only apply for an “alien’s” passport. He speaks too to Latvians about how they feel about the “New Wave” festival, the Russian minority and the wars over history of the Soviet Union.</p>"
+            },
+            "location": {
+                "name": "Jurmala",
+                "lat": 56.947079, 
+                "lon": 23.616849, 
+                "zoom": 3,
+                "line": true
+            },
+            "media": {
+                    "url":              "https://www.youtube.com/watch?v=jBjYypaeZfs",
+                    "alt_media": "http://www.hotelbaltpark.com/images/bp/blog/novaja-volna/festival-novaja-volna-11.jpg",
+                    "credit":               "???",
+                    "caption":          "New Wave Festival in Riga"
+                }
+        },
+          {
+            "date": "August 2015",
+            "text": {
+                "headline": "Belarus: Europe’s Last Dictatorship",
+                "text": "<p>In 2011, if you chose to ignore the footage of police beating protesters, Belarus appeared to be a fine destination for the modern communist looking to return to Soviet life. With less than 1% unemployment, 80% of its industries nationalised and its streets lined with statues of Lenin, Belarus is a country “unspoilt by capitalism”.</p><p>Yet now the economy is beginning to crumble, the popularity of dictator Lukashenko begins to wane and the country is starting to look increasingly isolated as its non-Russian neighbours are either in the EU or are eagerly seeking to join.</p><p>This chapter focuses on the day-to-day struggles of a population whose Soviet history is not something confined to the past but rather something aspired to as an ideal which inhabits every fibre of social existence. For a month, the author under the guise of being a regular tourist, experiences how life is on the street. With free press all but banned and the constant threat of the Belarusian secret police, he speaks to locals and discovers how they view their nation in regards to the West and mother Russia, how they feel about still living under socialism, while the rest of the world has moved on, and their opportunities and hardships in the Last Dictatorship in Russia.</p>"
+            },
+                        "location": {
+                "name": "Minsk",
+                "lat": 53.900000, 
+                "lon": 27.566667, 
+                "zoom": 3,
+                "line": true
+            },
+            "media": {
+                    "url":              "http://aphs.worldnomads.com/safetyhub/29983/politics_belarus.jpg",
+                    "credit":               "World Nomads",
+                    "caption":          "Belarus"
+                }
+        },{
+            "date": "November 2012",
+            "text": {
+                "headline": "Chernobyl & Shcholkine: Peddlers of the Apocalypse",
+                "text": "<p>It is almost impossible to accurately measure the Chernobyl Disaster’s physical legacy. Even today radioactive Caesium and Strontium continue work their way up food chains and down water systems throughout Eurasia. Rather than an isolated event Chernobyl was the inevitable result of Soviet regime’s institutional hubris, the elevation of technology to the status of national religion and a win-at-all-costs attitude to competition with the West. Yet in the beginning the “peaceful atom” promised abundant clean power with applications that ranged from nuclear powered ice-breakers to food preservation. What’s more, there existed a genuine belief that it could make the utopian dream of communism a reality.</p><p>Travel with the author as he journeys to Chernobyl to see up close the consequences of Soviet Nuclear Dreaming. He is greeted by poignant moment after moment in the ghost town of Pripyat (pop 30,000), its belief in the nuclear promise on display, frozen at the instant it shattered. The chapter cites instances of heroism and loss and how these were exploited by the Soviet state. With different ages and backgrounds, his fellow tourists react differently. Set to the beep of radiation detectors, the author also witnesses a new era of international cooperation - with the building of a replacement sarcophagus. Finally, he travels to the decommissioned Crimean Atomic Energy Station to see how quickly yesterday’s dreams can be sold as today’s scrap.</p>"
+            },
+            "location": {
+                "name": "Chernobyl",
+                "lat": 51.272222,
+                "lon": 30.224167, 
+                "zoom": 6,
+                "line": true
+            },
+            "media": {
+                    "url":              "https://theusindependent.com/wp-content/uploads/2014/03/chernobyl_theusindependent.jpg",
+                    "credit":               "The US Independent",
+                    "caption":          "Downtown Pripyat"
+                }
+        },
+          {
+            "date": "September 2015",
+            "text": {
+                "headline": "Transnistria: Gangster’s Paradise",
+                "text": "<p>A small strip of land between the Dniester river and the border with Ukraine is Transnistria - the self-proclaimed Soviet Autonomous State. With its own coins, stamps and passports all proudly displaying the hammer and sickle, one would be forgiven in thinking that a visit to Transnistria would be a visit to a Soviet Past.</p><p>When he visits, the author finds that something is amiss. As an unrecognized state it is not allowed to export to other countries yet the main street is clogged with mid-high end European cars and the main hotel in the capital city Tiraspol is plush, expensive and far more luxurious than its equivalent in Moldova proper. Where is the money coming from? As ubiquitous as the communist star is the Sheriff star, the symbol of the largest shadowy corporation that owns almost everything: service stations, supermarkets, the telecommunications network and a stadium complex which includes a five star hotel and a luxury car showroom.</p><p>He discovers that the symbols of communism provide a half-hearted attempt at legitimizing this gangster state that is little more than a haven for organized crime, a corridor for illegal traffic that can be quickly loaded onto a ship in Odessa and sent onward to Europe, Africa or the Middle East. We see that the continuation of the Soviet legacy has become little more than a convenient cover narrative for Transnistria no matter how contradictory the reality turns out to be.</p>"
+            },
+            "location": {
+                "name": "Tiraspol",
+                "lat": 46.8538147,
+                "lon": 29.6148599, 
+                "zoom": 3,
+                "line": true
+            },
+            "media": {
+                    "url":              "http://global-travel-info.com/wp-content/billboard.jpg",
+                    "credit":               "Global Travel",
+                    "caption":          "Transnistrian Emblem"
+                }
+        },
+        {
+            "date": "August 2012",
+            "text": {
+                "headline": "Czech Republic: Soviet Invasion",
+                "text": "<p>The author grew up with grandparents in Australia who seemed to be from an alien world. News of his grandfather’s death come to him on a text message while on a train in Siberia. Unable to return to Australia for the funeral, the author decides to meet his extended family in the Czech Republic at the old family estate for the burial of his grandfather’s ashes in the family crypt.</p><p>While there the author finds out his grandfather’s history: born to an aristocratic family, adopted by an Austrian jew and conscripted into the Wehrmacht to fight on the Russian front. After going AWOL in the closing days of the war he returned to Czechoslovakia. Once there he was forced to hide from the invading communists in the forest, his existence a threat to both himself and his family. Eventually he escaped over the border but had to return to try and convince his brother who had been given an ultimatum: either stay forever or leave and never come back, to leave with him. Upon returning, he and the author’s grandmother were gaoled as spies, interrogated and then with the influence of his father in law, released to escape over the border to Vienna, then finally come to Australia.</p><p>The personal account shows just one example of how the march of communism threw lives into disarray, the ripples of which are still being felt today.</p>"
+            },
+            "location": {
+                "name": "Jimramov",
+                "lat": 49.637188,
+                "lon": 16.226324, 
+                "zoom": 6,
+                "line": true
+            },
+            "media": {
+                    "url":              "http://www.findingdulcinea.com/docroot/dulcinea/fd_images/news/on-this-day/July-August-08/On-this-Day--Soviets-Invade-Czechoslovakia-After-Prague-Spring/news/0/image.jpg",
+                    "credit":               "???",
+                    "caption":          "Prague Spring"
+                }
+        },
+        {
+            "date": "August 2015",
+            "text": {
+                "headline": "Berlin: Ostalgie",
+                "text": "<p>The defeat of the Eastern Bloc was nowhere so jarring as on the drab side of the newly torn down Berlin Wall. Euphoria swept through the defunct DDR as Ossis (East Germans) spent their welcome-to-a-reunified Germany money on wild spending sprees, eager new consumers desperate for brilliantly packaged goods available in quantities they had never before seen. Soon East German factories began to close and their unwanted and obsolete goods vanished from stores.</p><p>The DDR is now officially remembered as little more than an oppressive state, all barbed wire and border guards. Objects from day-to-day life have become museum pieces and are appreciated more often as kitsch and farcical than from a reality people actually lived and struggled through. As a reaction came Ostalgie (Nostalgia for the East), a revival in rose coloured glasses of the Socialist way of life, from the Trabant (an East German car of plastic and pressed cotton) to the songs and games of the DDR. </p><p>The author travels to Germany to attend an Osival (festival for the East) where old East German beers are sold and food is made in the Socialist way. Once there he watches old socialist rock bands, and meets festival goers some of whom feel estranged by the end of the Soviet Union while others just want to restore a connection to a life they once lead. This chapter explores the dissonance between the official history and the memory of individuals that lived in the East, how nostalgia is resistant to this official history and, in the defeat of defeats, how this nostalgia and memory are commodified and sold back.  </p>"
+            },
+            "location": {
+                "name": "Berlin",
+                "lat": 52.520007,
+                "lon": 13.404954, 
+                "zoom": 6,
+                "line": true
+            },
+            "media": {
+                    "url":              "http://static.bz-berlin.de/data/uploads/multimedia/archive/00467/vopo-b_r_467866a-704x396.jpg",
+                    "credit":               "Bz Berlin",
+                    "caption":          "Ostalgie: Nostalgia for the Ost or East"
+                }
+        }   ]
+    }
+}
