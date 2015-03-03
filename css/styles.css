@@ -101,7 +101,7 @@ margin: 0em 0;
 {
 	width: 220px;
 	float: left;
-	margin-left: 30px;
+	margin-left: 27px;
 	position: fixed;
 	bottom: 15px;
 	z-index: 3;
@@ -127,18 +127,16 @@ margin: 0em 0;
 	background: transparent;
 	display: inline-block;
 	margin-right: 10px;
-	width: 90px;
+	width: 50px;
 }
-.dark-social ul li .fb
+.dark-social ul li.fb
 {
-	position: relative;
-	margin-right: 20px;
-	top:0px;
+	top: 0px;
+	overflow: show;
 
 }
-.dark-social ul li .tw
+.dark-social ul li.tw
 {
-	position: relative;
-	top: 4px;
+	padding-top:3px;
 	margin-right: 0;
 }
