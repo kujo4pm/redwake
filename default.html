@@ -24,7 +24,7 @@
   js.src = "//connect.facebook.net/en_GB/sdk.js#xfbml=1&version=v2.0";
   fjs.parentNode.insertBefore(js, fjs);
 }(document, 'script', 'facebook-jssdk'));</script>
-<ul class="StickyShare">
+<ul class="StickyShare" id="left-share">
 	<li><a href="https://www.facebook.com/theredwake/" target="_blank"></a></li>
 	<li><a href="https://twitter.com/RedWake" target="_blank"></a></li>
 	<li><a href="mailto:theredwake@gmail.com"></a></li>
@@ -33,19 +33,24 @@
 	<div id="about-box"  onclick="disappearAbout();">
 		<div id="left-about">
 			<h1>Welcome to the Red Wake:</h1>
-			<p>Follow me as I travel to the nation-states and breakaway republics of the former Eastern Bloc, stumbling through the ruins of Gulags, abandoned Nuclear Power stations and declassified fallout bunkers to write a book tracing how the the great political experiment of the 20th Century still weighs heavily on our world today.</p>
+			<p>Follow me as I travel to the nation-states and breakaway republics of the former Eastern Bloc, stumbling through the ruins of Gulags, abandoned Nuclear Power stations and declassified fallout bunkers tracing how the the great political experiment of the 20th Century still weighs heavily on our world today.</p>
 			<p><a href="#" class="continue">Click here to continue >></a></p>
 		</div>
 		<div id="right-about"><img src="img/popup.jpg" /></div>
 	</div>
 </div>
-<div  class="dark-social">
+<div  class="dark-social" id="bottom-share">
 	<ul>
 		<li class="fb"><div class="fb-share-button" data-href="http://www.theredwake.com" data-layout="button"></div></li>
 		<li class="tw"><a href="https://twitter.com/share" class="twitter-share-button" data-count="none">Tweet</a>
 <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');</script></li>
 	</ul>	
 </div>
+<script>if(jQuery.browser.mobile)
+{
+    disappearAbout();
+    disappearSocial();
+}</script>
 	<!-- The StoryMap container can go anywhere on the page. Be sure to 
     specify a width and height.  The width can be absolute (in pixels) or 
     relative (in percentage), but the height must be an absolute value.  
