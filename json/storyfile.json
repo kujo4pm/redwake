@@ -2,8 +2,82 @@
     "storymap": {
         "language": "AU",              
         "map_type": "osm:standard",      
-        "map_as_image": false,  
+        "map_as_image": false, 
+        "slide_rail": 
+        [
+        {
+            "date": "6 April 2015",
+            "text": {
+                "headline": "Chat Transcript from Khiva",
+                "text": "<div class=\"chat-transcript\"> >So yesterday I'm having a nice dinner by myself.<br /> >And I order a nice beer and prepare to get stuck into said beer<br /> >Anyways it's this cavernous restaurant - cool sandstones, all underground, which is nice because Khiva is in the desert and has everything associated with the desert.<br /> >And suddenly this tour group rocks up with all these oldies in cargo pants like everyone from European countries began doing 5 years ago<br /> >And then another tour group turns up and suddenly I have like 30 people all sitting around in what was an empty resturant all facing me.<br /> >Then this family of minstels in uzbek garb comes out<br /> >One looks like Vin Diesel. Ones an old man with gold teeth<br /> >Ones a real pretty girl<br /> >And the last is a large middle aged woman with a painted on monobrow<br /> >They're considered really beautiful here<br /> >Anyways now my personal dinner of reading has turned to front row seats for Uzbekvision 2015<br /> >And I haven't seen a pretty woman in weeks<br /> >Old man gold teeth starts playing the drums.<br /> >While Pretty is playing the accordion<br /> >The Vin Diesel guy dances and says \"hey uup!\" Over and over<br /> >I dunno what monobrow does I think she just stands there having a monobrow<br /> >Anyway they start and they're amazing<br /> >Theres a drum battle between old man gold teeth and Vin Diesel slapping his cheeks to make a beat<br /> >There's another girl that dances real good and bends over backwards and picks up a ring in her teeth<br /> >Even monobrow sings a song<br /> >Anyways Vin Diesel is wearing a hat and they bring out this other hat and gives it to the tour guide sitting at the next table<br /> >He has to get up and dance<br /> >And I'm right there at the front thinking ah no no it was fine before audience participation but there's<br /> >The first pretty girl ive seen in weeks<br /> >Sure enough tour guide comes right up to me when I'm half way through eating a mouthful of rice and I have to dance.<br /> >And I'm dancing in from of all these people I dont know<br /> >And then the tour guide picks up my camera to take a shot of me<br /> >But it's low light so I have to stand still like an idiot holding this ridiculous pose<br /> >And instead of pressing the shoot button he turns off the camera<br /> >And it's real awkward cos I gotta turn it on again and that takes ages<br /> >And the then the music finishes and no shot!<br /> >But then the pretty girl gave me the thumbs up.<br /> >The end</div>"            },
+            "location": {
+                "name": "Khiva",
+                "lat": 41.3891466, 
+                "lon": 60.3500032,
+                "zoom": 4,
+                "line": true
+            },
+            "media": {
+                    "url":              "/img/fergana/IMG_0479.JPG",
+                    "credit":           "",
+                    "caption":          "The Entrance to Fergana Oblast"
+                }
+        }
+        ],
         "slides": [
+         {
+            "date": "6 April 2015",
+            "text": {
+                "headline": "Monyaq - By a Vanished Sea",
+                "text": "<div class=\"chat-transcript\"><p><img src=\"/img/aralsea/IMG_0711.JPG\"/></p><p><img src=\"/img/aralsea/IMG_0708.JPG\"/></p><p><img src=\"/img/aralsea/IMG_0716.JPG\"/></p><p>Continuing down the main street I could see through gaps in the buildings the edge of town - the horizon. Past me drove old Russian Ladas, rusting where the ice and snow had be kicked up for thrity winters in the well by the wheel, families crammed in looking out, eyes locking on me as they drove past. I turned down a small alley passing kids were playing basketball on a dirt court. Further down I was at last alone. I had reached the edge of town and it was very quiet, there was a hill with sand dunes then an electrical relay station. It was strange to see everything end here, no power lines running out. In the distance a bike put putted down a road, past two skeletons no longer discernible as factories, crumbling ruins that imply former structure, like an impressionist work.</p><p><img src=\"/img/aralsea/IMG_0895.JPG\"/></p><p>The sound of the bike faded away to nothing. I continued on through the dunes. The coarse rocky dirt turned to sand, in it were crushed plastic bottles of Azia beer, cigarette butts. As I went further from the edge of the village an unnerving silence descended. I crouched down in the valley formed by two dunes. It was completely silent but for the distant exhalation of air through the stalks of ashen plants long since dead. I looked closely at the sand. There were small white shells. I plunged in my hand. It was quite fine on the surface but became coarser the further my fingers clawed. My retrieved hand was dusty around the cuticles not clean like  beach in Australia. Looking closer I could see small specks of green, stubborn little shoots of life. I knew what these were, just like every Australian did. These plants with their roots formed a subterranean system that held together the sand on the beach, kept it from being pulled in, eroded away into the sea.</p><p><img src=\"/img/aralsea/IMG_0889.JPG\"/></p><p>I was still amongst the dunes and could not see the horizon. I scrambled up and down dunes, heading away from the town. Would they go on forever? I thought. I wanted to find a high point. And then I did. I stood on the final dune, and beyond was a landscape, terrifying in its scale and uniformity, an unbroken expanse of sand and sand and sand dotted with the grey yellow characterless tufts of grasses like ancient relatives whisked from family gatherings where they had been too past it to interact. The clouds sat low, their grey underbellies remained static, their shadows printed on the plane, permanent and solid. There was something absurd about this boundlessness existing in the real untheoretical world and I was affected in a way I had not expected. In the long distance a blue tractor kicked up a small cloud of dust, tilling god knows what. Suddenly, from behind the dune three cows walked past in single file. One mooed loud and hollow. I could hear the ding of a bell and it struck me as mad that anyone could loose a cow in such a landscape.</p><p><img src=\"/img/aralsea/IMG_0844.JPG\"/></p><p>I moved on walking through the dunes, parallel to the limits of the village, which had disappeared now completely behind them. Something restrained me from moving beyond the solidity of those dunes and into the madness of that infinity, by myself. It seemed as if to cross past the final dune would mean to become lost in a terrible dreamscape where physical laws no longer applied.</p></div>"            },
+            "location": {
+                "name": "Monyaq",
+                "lat": 43.7709526,
+                "lon": 59.0233183, 
+                "zoom": 1,
+                "line": true
+            },
+            "media": {
+                    "url":              "/img/aralsea/IMG_0666.JPG",
+                    "credit":           "",
+                    "caption":          "The Entrance to Fergana Oblast"
+                }
+        },
+                {
+            "date": "6 April 2015",
+            "text": {
+                "headline": "Chat Transcript from Khiva",
+                "text": "<div class=\"chat-transcript\"><video id=\"slide3-vid1\" width=\"568\" height=\"378\" controls><source src=\"/video/UzbekDance.mp4\" type=\"video/mp4\"></video> >So yesterday I'm having a nice dinner by myself.<br /> >And I order a nice beer and prepare to get stuck into said beer<br /> >Anyways it's this cavernous restaurant - cool sandstones, all underground, which is nice because Khiva is in the desert and has everything associated with the desert.<br /> >And suddenly this tour group rocks up with all these oldies in cargo pants like everyone from European countries began doing 5 years ago<br /> >And then another tour group turns up and suddenly I have like 30 people all sitting around in what was an empty resturant all facing me.<br /> >Then this family of minstels in uzbek garb comes out<br /> >One looks like Vin Diesel. Ones an old man with gold teeth<br /> >Ones a real pretty girl<br /> >And the last is a fat woman with a painted on monobrow<br /> >No joke.<br /> >They're considered really beautiful here<br /> >Anyways now my personal dinner of reading has turned to front row seats for monobrow 2015<br /> >And I haven't seen a pretty woman in weeks<br /> >Old man gold teeth starts playing the drums.<br /> >Pretty is playing the accordion<br /> >The Vin Diesel guy dances and says \"hey uup!\" Over and over<br /> >I dunno what monobrow does I think she just stands there having a monobrow<br /> >Anyway they start and they're amazing<br /> >Theres a drum battle between old man gold teeth and Vin Diesel slapping his cheeks to make the music!<br /> >There's another another girl that dances real good and bends over backwards and picks up a ring in her teeth<br /> >Even monobrow sings a song<br /> >Anyways Vin Diesel is wearing a hat and they bring out this other hat and gives it to the tour guide sitting at the next table<br /> >He has to get up and dances<br /> >And I'm right there at the front thinking ah fuck fuck it was fine before audience participation but there's<br /> >The first pretty girl ive seen in weeks<br /> >Sure enough tour guide comes right up to me when I'm half way through eating a mouthful of rice and I have to dance.<br /> >And I'm dancing in from of all these people I dont know<br /> >And then the tour guide picks up my camera to take a shot of me<br /> >But it's low light so I have to stand still like an idiot holding this ridiculous pose<br /> >And instead of pressing thr shoot button he turns off the camera<br /> >And it's real awkward cos I gotta turn it on again and that takes ages<br /> >And the then the music finishes and no shot!<br /> >But then the pretty girl gave me the thumbs up.<br /> >The end <p></p><p>Some more photos from Khiva </p><p><img src=\"/img/khiva/IMG_0540.JPG\"/></p><p><img src=\"/img/khiva/IMG_0551.JPG\"/></p><p><img src=\"/img/khiva/IMG_0556.JPG\"/></p><p><img src=\"/img/khiva/IMG_0573.JPG\"/></p></div>"            },
+            "location": {
+                "name": "Khiva",
+                "lat": 41.3891466, 
+                "lon": 60.3500032,
+                "zoom": 4,
+                "line": true
+            },
+            "media": {
+                   
+                }
+        },
+        {
+            "date": "6 April 2015",
+            "text": {
+                "headline": "Night train to Bukhara",
+                "text": "<div class=\"story-content\"><video id=\"slide3-vid1\" width=\"568\" height=\"378\" controls><source src=\"/video/trainBukhara.mp4\" type=\"video/mp4\"></video><p>After I left the Fergana Valley, with its heavy police control, through the mountains that crown its edge to the capital Tashkent. There I hopped on a night-train into the desert to the ancient and lonely city of Bukhara. It was here I bunkered down to write.</p><p><img src=\"/img/bukhara/IMG_0505.JPG\"/></p><p><img src=\"/img/bukhara/IMG_0510.JPG\"/></p><p><img src=\"/img/bukhara/IMG_0497.JPG\"/></p></div>"
+            },
+            "location": {
+                "name": "Narmangan",
+                "lat": 39.7775363, 
+                "lon": 64.4227981,
+                "zoom": 4,
+                "line": true
+            },
+            "media": {
+                    "url":              "/img/bukhara/IMG_0496.JPG",
+                    "credit":           "",
+                    "caption":          "More old men"
+                }
+        },
         {
             "date": "6 April 2015",
             "text": {
@@ -19,7 +93,7 @@
             },
             "media": {
                     "url":              "/img/fergana/IMG_0479.JPG",
-                    "credit":           "wikipedia",
+                    "credit":           "",
                     "caption":          "The Entrance to Fergana Oblast"
                 }
         },
@@ -38,7 +112,7 @@
             },
             "media": {
                     "url":              "/img/sokh/IMG_0409.JPG",
-                    "credit":           "wikipedia",
+                    "credit":           "",
                     "caption":          "The entrance to the Uzbek Enclave Shakhimardan"
                 }
         },
@@ -57,7 +131,7 @@
             },
             "media": {
                     "url":              "/img/osh/IMG_0350.JPG",
-                    "credit":           "wikipedia",
+                    "credit":           "",
                     "caption":          "Osh from Mount Suleman-Altoo"
                 }
         },
@@ -76,7 +150,7 @@
             },
             "media": {
                     "url":              "/img/osh_bazaar/osh_bazaar_entranceWEB.JPG",
-                    "credit":           "wikipedia",
+                    "credit":           "",
                     "caption":          "The Outskirts of Bishkek - en route to the Osh Bazaar"
                 }
         }]
