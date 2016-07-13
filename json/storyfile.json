@@ -26,6 +26,24 @@
         ],
         "slides": [
         {
+            "date": "6 April 2015",
+            "text": {
+                "headline": "The Red Wake",
+                "text": "<div class=\"chat-transcript\"><p>My book is out! A hybrid of history, travel and journalism. <a href=\"http://www.randomhouse.com.au/books/kurt-johnson/the-red-wake-a-hybrid-of-travel-history-and-journalism-9780857987068.aspx\">Click here to buy...</a></p></div>"            },
+            "location": {
+                "name": "Sydney",
+                "lat": -33.847404, 
+                "lon": 150.6517787,
+                "zoom": 4,
+                "line": true
+            },
+            "media": {
+                    "url":              "/img/book/cover.jpg",
+                    "credit":           "",
+                    "caption":          "Out on Random House"
+                }
+        },
+        {
             "date": "17 July 2015",
             "text": {
                 "headline": "The Bear of Georgia",
